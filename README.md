@@ -29,10 +29,6 @@ This repository serves as a reflection of my learning progress and a stepping st
 - NetBeans IDE (or any other Java-compatible IDE)
 - MySQL or any relational database (for database-related projects)
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 **Author:** I Komang Abimanyu\
